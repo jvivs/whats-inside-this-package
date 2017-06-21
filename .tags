@@ -1,0 +1,51 @@
+What's inside that package?	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^# What's inside that package?$/;"	function	line:2
+another talk about a JSON file	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## another talk about a JSON file$/;"	function	line:6
+If you keep asking for fish...	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## If you keep asking for fish...$/;"	function	line:16
+Stop asking for fish	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Stop asking for fish$/;"	function	line:22
+Fishing spots	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Fishing spots$/;"	function	line:32
+Things to look for on NPM	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^# Things to look for on NPM$/;"	function	line:49
+1: Check the stats	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## 1: Check the stats$/;"	function	line:55
+Stability	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Stability$/;"	function	line:63
+Popularity	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Popularity$/;"	function	line:72
+Engagement	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Engagement$/;"	function	line:80
+Longevity	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Longevity$/;"	function	line:88
+2: Try it out	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## 2: Try it out$/;"	function	line:96
+3: Check out the code	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## 3: Check out the code$/;"	function	line:104
+Know what you're getting into	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Know what you're getting into$/;"	function	line:112
+`author`, `contributors`, `maintainers`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `author`, `contributors`, `maintainers`$/;"	function	line:118
+`description`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `description`$/;"	function	line:127
+`version`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `version`$/;"	function	line:134
+`name`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `name`$/;"	function	line:142
+`keywords`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `keywords`$/;"	function	line:148
+A quick note on npm search	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## A quick note on npm search$/;"	function	line:154
+`license`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `license`$/;"	function	line:162
+`package.json` ~~is~~ can be a treasure map	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `package.json` ~~is~~ can be a treasure map$/;"	function	line:174
+`main`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `main`$/;"	function	line:180
+`repository`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `repository`$/;"	function	line:191
+`homepage`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `homepage`$/;"	function	line:197
+`bugs`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `bugs`$/;"	function	line:207
+`engines`, `os`, `cpu`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `engines`, `os`, `cpu`$/;"	function	line:213
+`bin`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `bin`$/;"	function	line:221
+`man`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `man`$/;"	function	line:231
+`directories`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `directories`$/;"	function	line:239
+You can't have any pudding if you don't eat your meat	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## You can't have any pudding if you don't eat your meat$/;"	function	line:252
+`dependencies`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `dependencies`$/;"	function	line:258
+`devDependencies`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `devDependencies`$/;"	function	line:271
+`peerDependencies`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `peerDependencies`$/;"	function	line:282
+`optionalDependencies`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `optionalDependencies`$/;"	function	line:293
+`bundledDependencies`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `bundledDependencies`$/;"	function	line:305
+`files`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `files`$/;"	function	line:315
+Config and scripts	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Config and scripts$/;"	function	line:323
+`config`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `config`$/;"	function	line:327
+`scripts`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `scripts`$/;"	function	line:339
+Lifecycle scripts	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Lifecycle scripts$/;"	function	line:355
+Arbitrary scripts	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Arbitrary scripts$/;"	function	line:365
+`scripts` cont...	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `scripts` cont...$/;"	function	line:379
+Do as I say	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Do as I say$/;"	function	line:395
+`npm install --save <package>`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `npm install --save <package>`$/;"	function	line:401
+`npm install --save-dev <package>`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `npm install --save-dev <package>`$/;"	function	line:409
+`npm update --save <package>`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## `npm update --save <package>`$/;"	function	line:415
+Never forget	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Never forget$/;"	function	line:427
+Beyond the `pacakge.json`	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Beyond the `pacakge.json`$/;"	function	line:435
+What if there are bad signs?	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## What if there are bad signs?$/;"	function	line:448
+Go fish!	/Users/jvivian/code/sstk/talks/SnapConference/whats-inside-this-package/slides/intro.md	/^## Go fish!$/;"	function	line:468
